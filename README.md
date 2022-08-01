@@ -1,4 +1,4 @@
-# Building on the Twitter API with Rust for the Chirp Dev Build Day with Rust
+# Building on the Twitter API with Rust for the Chirp Dev Build Day 
 
 The examples int this repository use the [`twitter_v2`](https://github.com/jpopesculian/twitter-v2-rs) crate to interface with the twitter API, feel free to visit the repo and give it a star.
 
